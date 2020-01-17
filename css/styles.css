@@ -1,0 +1,13 @@
+body {
+	background: yellow;
+}
+.shadow {
+	text-shadow:  3px 5px 10px black;
+} 
+p { 
+	color: red;
+}
+.blue_text { 
+	color: blue;
+}
+		
